@@ -1,0 +1,11 @@
+.App{
+  background:#15fb00;
+}
+@import "../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-navigations/styles/material.css";
+
+.a{
+  text-align: center;
+  color:black
+
+}
